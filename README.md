@@ -2,7 +2,7 @@
 # Frogger Arcade Game
 
 ## Summary
-Game is a variation of the classic Frogger arcade game.
+Frogger Arcade is a variation of the classic Frogger arcade game.
 
 #### Goals/Winning
 In this game the goal is simple, get the hero character to move across the gray bricks towards the water without getting hit by the enemy bugs. The user's score increases by one point for each level passed. The number of enemy bugs also increase with each level and are randomly placed across the gray bricks at the start of each game.
